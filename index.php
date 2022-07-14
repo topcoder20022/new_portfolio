@@ -9953,19 +9953,19 @@
               </a>
               <ul>
                 <li>
-                  <a href="https://www.facebook.com" target="_blank"><i class="lni-facebook-filled"></i>
+                  <a href="https://www.facebook.com/andrey.nosov.560" target="_blank"><i class="lni-facebook-filled"></i>
                   </a>
                 </li>
                 <li>
                   <a href="https://www.twitter.com" target="_blank"><i class="lni-twitter-original"></i>
                   </a>
                 </li>
-                <li>
+                <!-- <li>
                   <a href="https://www.instagram.com/alexandr.st98" target="_blank"><i class="lni-instagram"></i>
                   </a>
-                </li>
+                </li> -->
                 <li>
-                  <a href="https://www.linkedin.com/in/oleksandr-stepaniuk-808817216/" target="_blank"><i class="lni-linkedin-original"></i>
+                  <a href="https://www.linkedin.com/in/andrey-nosov-746824140/" target="_blank"><i class="lni-linkedin-original"></i>
                   </a>
                 </li>
               </ul>
